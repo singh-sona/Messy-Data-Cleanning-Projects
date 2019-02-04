@@ -1,1 +1,1 @@
-    "![alt](https://pixabay.com/photo-817732/.JPG)"
+    ![alt](https://pixabay.com/photo-817732/.JPG)
