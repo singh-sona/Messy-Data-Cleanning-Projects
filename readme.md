@@ -11,7 +11,7 @@
 ### This repository includes projects focused on loading data from different sources, understanding data anomalies and apply cleaning and data-transformation tools
 
 ## Project 1: Exploratory Walkthrough and Data Cleaning of Airbnb Dataset
-[Section1][1] | [Section2][2]
+[Section1][1] | [Section2][2] | [Section3][3]
 ### Aim | About Data Set | Workflow | Solutions
 
 ### Aim
@@ -23,7 +23,7 @@ Find section 2 [here][2]
 
 ### About Data Set
 
-Data Source: [here][3] <br>
+Data Source: [here][4] <br>
 
 In this challenge, you are given a list of users along with their demographics, web session records, and some summary statistics. You are asked to predict which country a new user's first booking destination will be. All the users in this dataset are from the USA. <br>
 
@@ -75,6 +75,8 @@ File descriptions:
 * `data_set`
 
 [1]: https://github.com/singh-sona/Messy-Data-Cleanning-Projects/blob/master/data%20cleaning.ipynb
-[2]: https://github.com/singh-sona/Messy-Data-Cleanning-Projects/edit/master/readme.md
-[3]: https://www.kaggle.com/c/airbnb-recruiting-new-user-bookings/data
+[2]: https://github.com/singh-sona/Messy-Data-Cleanning-Projects/blob/master/airbnb_clean.ipynb
+[3]: https://github.com/singh-sona/Messy-Data-Cleanning-Projects/edit/master/readme.md
+[4]: https://www.kaggle.com/c/airbnb-recruiting-new-user-bookings/data
+
 
