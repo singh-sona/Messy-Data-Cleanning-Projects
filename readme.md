@@ -18,9 +18,9 @@
 Project is split in two sections. <br>
 1. First section is aimed to find and understand the possible repurcussions of missing values, erroneous values, skweness, formatting issues, duplicate datapoints etc. in data-set of airbnb users provided by kaggle which consist of multiple features of users with outcomes of its country destinations. 
 Find section 1 [here][1]
-2. Second section deals with actually applying data cleaning and data-tranformation algorithms to eliminate the anomalies.
+2. Second section deals with actually applying data cleaning and data-formatting algorithms to eliminate the anomalies.
 Find section 2 [here][2]
-3. Possibilities of data features tranformation is explored and main focus is to explore and clean Airbnb dataset and finally building prediction model to predict outcomes of destination country of users.
+3. Possibilities of data features tranformation is explored along with preparation sessions.csv dataset and main focus is to finally building prediction model to predict outcomes of destination country of users.
 Find section 3 [here][3]
 
 ### About Data Set
