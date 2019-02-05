@@ -1,6 +1,6 @@
 # Initial Data Exploration and Cleaning projects
 
-![Screenshot Post Page](/img/Glass_cleaning.jpg)
+![Screenshot Post Page](/img/glass_cleaning.jpg)
  
 | Number        | Project Name                         | Tags   |
 | --------------|:-------------------------------------|:------------------------|
