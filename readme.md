@@ -5,8 +5,8 @@
 | Number        | Project Name                         | Tags   |
 | --------------|:-------------------------------------|:------------------------|
 |Project 1      | Air bnb user destination prediction  | Exploration, Cleaning, tranformation, prediction|
-|Projcet 2| Under construction| |
-|Projcet 3| Under construction| |
+|Projcet 2| Deadline for Feb 28| |
+|Projcet 3| Deadline for March 15 |
 
 ### This repository includes projects focused on loading data from different sources, understanding data anomalies and apply cleaning and data-transformation tools
 
