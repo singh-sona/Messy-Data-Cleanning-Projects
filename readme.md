@@ -2,7 +2,7 @@
 
 ![Screenshot Post Page](/img/Glass_cleaning.jpg)
 
-### This repository includes projects focused on loading data from different sources, understanding the data and apply cleaning and data-transformation tools
+### This repository includes projects focused on loading data from different sources, understanding data anomalies and apply cleaning and data-transformation tools
 
 ## Project 1: Exploratory Walkthrough and Data Cleaning of Airbnb Dataset
 [Section1][1] | [Section2][2]
