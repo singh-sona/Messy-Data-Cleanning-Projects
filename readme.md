@@ -16,7 +16,7 @@
 
 ### Aim
 Project is split in two sections. <br>
-1. First section is aimed to find and understand the possible repurcussions of missing values, skewness, duplicate datapoints in data-set of airbnb users provided by kaggle which consist of multiple features of users with outcomes of its country destinations.
+1. First section is aimed to find and understand the possible repurcussions of missing values, erroneous values, skweness, formatting issues, duplicate datapoints etc. in data-set of airbnb users provided by kaggle which consist of multiple features of users with outcomes of its country destinations. 
 Find section 1 [here][1]
 2. Second section deals with actually applying data cleaning and data-tranformation algorithms to eliminate the anomalies.
 Find section 2 [here][2]
