@@ -31,7 +31,8 @@ There are 12 possible outcomes of the destination country: **'US', 'FR', 'CA', '
 
 The training and test sets are split by dates. In the test set, you will predict all the new users with first activities after 7/1/2014 (note: this is updated on 12/5/15 when the competition restarted). In the sessions dataset, the data only dates back to 1/1/2014, while the users dataset dates back to 2010. <br>
 
-File descriptions
+File descriptions:
+
 1. train_users.csv - the training set of users
 2. test_users.csv - the test set of users <br>
 *id: user id<br>
