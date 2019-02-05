@@ -55,7 +55,7 @@ countries.csv - summary statistics of destination countries in this dataset and 
 age_gender_bkts.csv - summary statistics of users' age group, gender, country of destination
 sample_submission.csv - correct format for submitting your predictions
 
-###
+### Workflow
 1. Because all three files contain data of different year, initial exploratory analysis is performed on train data set with contain data of year 2009 to 2014 and saved as `airbnb_explore.ipynb` file.
 2. For cleaning, train and test data sets are concatenated and whole data-set is transformed together and saved as `airbnb_clean.ipynb`
 3. Build model to predict the destination countries choosen by user-- under development
