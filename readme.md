@@ -20,6 +20,8 @@ Project is split in two sections. <br>
 Find section 1 [here][1]
 2. Second section deals with actually applying data cleaning and data-tranformation algorithms to eliminate the anomalies.
 Find section 2 [here][2]
+3. Possibilities of data features tranformation is explored and main focus is to explore and clean Airbnb dataset and finally building prediction model to predict outcomes of destination country of users.
+Find section 3 [here][3]
 
 ### About Data Set
 
@@ -72,11 +74,12 @@ File descriptions:
 * `readme.md`.
 * `airbnb_explore.ipynb`
 * `airbnb_clean.ipynb`
+* `airbnb_predictor.ipynb`
 * `data_set`
 
-[1]: https://github.com/singh-sona/Messy-Data-Cleanning-Projects/blob/master/data%20cleaning.ipynb
+[1]: https://github.com/singh-sona/Messy-Data-Cleanning-Projects/blob/master/airbnb_explore.ipynb
 [2]: https://github.com/singh-sona/Messy-Data-Cleanning-Projects/blob/master/airbnb_clean.ipynb
-[3]: https://github.com/singh-sona/Messy-Data-Cleanning-Projects/edit/master/readme.md
+[3]: https://github.com/singh-sona/Messy-Data-Cleanning-Projects/blob/master/airbnb_predictor.ipynb
 [4]: https://www.kaggle.com/c/airbnb-recruiting-new-user-bookings/data
 
 
