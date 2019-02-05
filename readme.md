@@ -4,7 +4,7 @@
  
 | Number        | Project Name                         | Tags   |
 | --------------|:-------------------------------------|:------------------------|
-|Project 1      | Air bnb user destination prediction  | Exploration, Cleaning, prediction|
+|Project 1      | Air bnb user destination prediction  | Exploration, Cleaning, tranformation, prediction|
 |Projcet 2| Under construction| |
 |Projcet 3| Under construction| |
 
