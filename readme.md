@@ -1,6 +1,6 @@
 # Initial Data Exploration and Cleaning projects
 
-![Screenshot Post Page](site.PNG)
+![Screenshot Post Page](/img/Glass_cleaning.jpg)
 
 ### This repository includes projects focused on loading data from different sources, understanding the data and apply cleaning and data-transformation tools
 
