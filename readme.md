@@ -1,21 +1,24 @@
 # Initial Data Exploration and Cleaning projects
 
+![Screenshot Post Page](site.PNG)
+
 ### This repository includes projects focused on loading data from different sources, understanding the data and apply cleaning and data-transformation tools
 
 ## Project 1: Exploratory Walkthrough and Data Cleaning of Airbnb Dataset
-
+[Section1][1] | [Section2][2]
 ### Aim | About Data Set | Workflow | Solutions
 
 ### Aim
 Project is split in two sections. <br>
-1. First section is aimed to find and understand the possible repurcussions of missing values, skewness, duplicate datapoints in data-set of airbnb users provided by kaggle which consist of multiple features of users with outcomes of its country destinations. <br>
+1. First section is aimed to find and understand the possible repurcussions of missing values, skewness, duplicate datapoints in data-set of airbnb users provided by kaggle which consist of multiple features of users with outcomes of its country destinations.
 Find section 1 [here][1]
-2. Second section deals with actually applying data cleaning and data-tranformation algorithms to eliminate the anomalies.  <br>
+2. Second section deals with actually applying data cleaning and data-tranformation algorithms to eliminate the anomalies.
 Find section 2 [here][2]
 
 ### About Data Set
 
 Data Source: [here][3] <br>
+
 In this challenge, you are given a list of users along with their demographics, web session records, and some summary statistics. You are asked to predict which country a new user's first booking destination will be. All the users in this dataset are from the USA.
 
 There are 12 possible outcomes of the destination country: 'US', 'FR', 'CA', 'GB', 'ES', 'IT', 'PT', 'NL','DE', 'AU', 'NDF' (no destination found), and 'other'. Please note that 'NDF' is different from 'other' because 'other' means there was a booking, but is to a country not included in the list, while 'NDF' means there wasn't a booking.
@@ -52,20 +55,19 @@ countries.csv - summary statistics of destination countries in this dataset and 
 age_gender_bkts.csv - summary statistics of users' age group, gender, country of destination
 sample_submission.csv - correct format for submitting your predictions
 
-![Screenshot Post Page](site.PNG)
-
+###
+1. Because all three files contain data of different year, initial exploratory analysis is performed on train data set with contain data of year 2009 to 2014 and saved as `airbnb_explore.ipynb` file.
+2. For cleaning, train and test data sets are concatenated and whole data-set is transformed together and saved as `airbnb_clean.ipynb`
+3. Build model to predict the destination countries choosen by user-- under development
 
 ### Solutions
 
 * `readme.md`.
 * `airbnb_explore.ipynb`
-* `airbnb_clean.ipynb
+* `airbnb_clean.ipynb`
+* `data_set`
 
-
-### Demo
-* [https://singh-sona.github.io](https://singh-sona.github.io)
-
-[1]: https://github.com/singh-sona/Messy-Data-Cleanning-Projects/edit/master/readme.md
+[1]: https://github.com/singh-sona/Messy-Data-Cleanning-Projects/blob/master/data%20cleaning.ipynb
 [2]: https://github.com/singh-sona/Messy-Data-Cleanning-Projects/edit/master/readme.md
 [3]: https://www.kaggle.com/c/airbnb-recruiting-new-user-bookings/data
 
